@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65b043d81cb69b5e3126b1972c31b3e9",
+    "revision": "622564c88f2c3093c776708f7fbecd76",
     "url": "/pa-volpin/app-receitas/index.html"
   },
   {
-    "revision": "b4deefc399cb315eb526",
+    "revision": "6e4a9a6fb4f4b2253efd",
     "url": "/pa-volpin/app-receitas/static/css/main.675cbe5e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pa-volpin/app-receitas/static/js/2.0032c7b0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b4deefc399cb315eb526",
-    "url": "/pa-volpin/app-receitas/static/js/main.9a1bbad9.chunk.js"
+    "revision": "6e4a9a6fb4f4b2253efd",
+    "url": "/pa-volpin/app-receitas/static/js/main.031e38fa.chunk.js"
   },
   {
     "revision": "3a97550b48aac4ba8907",

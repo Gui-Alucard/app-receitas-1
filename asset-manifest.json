@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pa-volpin/app-receitas/static/css/main.675cbe5e.chunk.css",
-    "main.js": "/pa-volpin/app-receitas/static/js/main.9a1bbad9.chunk.js",
-    "main.js.map": "/pa-volpin/app-receitas/static/js/main.9a1bbad9.chunk.js.map",
+    "main.js": "/pa-volpin/app-receitas/static/js/main.031e38fa.chunk.js",
+    "main.js.map": "/pa-volpin/app-receitas/static/js/main.031e38fa.chunk.js.map",
     "runtime-main.js": "/pa-volpin/app-receitas/static/js/runtime-main.f7664a78.js",
     "runtime-main.js.map": "/pa-volpin/app-receitas/static/js/runtime-main.f7664a78.js.map",
     "static/js/2.0032c7b0.chunk.js": "/pa-volpin/app-receitas/static/js/2.0032c7b0.chunk.js",
     "static/js/2.0032c7b0.chunk.js.map": "/pa-volpin/app-receitas/static/js/2.0032c7b0.chunk.js.map",
     "index.html": "/pa-volpin/app-receitas/index.html",
-    "precache-manifest.c079e855395993169e29b207e6e4c9fb.js": "/pa-volpin/app-receitas/precache-manifest.c079e855395993169e29b207e6e4c9fb.js",
+    "precache-manifest.f8ae63d5675a4673f88cd60a27ec2db1.js": "/pa-volpin/app-receitas/precache-manifest.f8ae63d5675a4673f88cd60a27ec2db1.js",
     "service-worker.js": "/pa-volpin/app-receitas/service-worker.js",
     "static/css/main.675cbe5e.chunk.css.map": "/pa-volpin/app-receitas/static/css/main.675cbe5e.chunk.css.map",
     "static/js/2.0032c7b0.chunk.js.LICENSE.txt": "/pa-volpin/app-receitas/static/js/2.0032c7b0.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.f7664a78.js",
     "static/js/2.0032c7b0.chunk.js",
     "static/css/main.675cbe5e.chunk.css",
-    "static/js/main.9a1bbad9.chunk.js"
+    "static/js/main.031e38fa.chunk.js"
   ]
 }
