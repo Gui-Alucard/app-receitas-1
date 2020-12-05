@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pa-volpin/app-receitas/precache-manifest.53846298d5805b9526ec2352bdfb9662.js"
+  "/pa-volpin/app-receitas/precache-manifest.c079e855395993169e29b207e6e4c9fb.js"
 );
 
 self.addEventListener('message', (event) => {
