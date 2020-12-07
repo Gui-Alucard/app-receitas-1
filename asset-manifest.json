@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/app-receitas/static/css/main.89514515.chunk.css",
-    "main.js": "/app-receitas/static/js/main.f44a45c9.chunk.js",
-    "main.js.map": "/app-receitas/static/js/main.f44a45c9.chunk.js.map",
+    "main.js": "/app-receitas/static/js/main.548f683c.chunk.js",
+    "main.js.map": "/app-receitas/static/js/main.548f683c.chunk.js.map",
     "runtime-main.js": "/app-receitas/static/js/runtime-main.0f6d492e.js",
     "runtime-main.js.map": "/app-receitas/static/js/runtime-main.0f6d492e.js.map",
     "static/js/2.0032c7b0.chunk.js": "/app-receitas/static/js/2.0032c7b0.chunk.js",
     "static/js/2.0032c7b0.chunk.js.map": "/app-receitas/static/js/2.0032c7b0.chunk.js.map",
     "index.html": "/app-receitas/index.html",
-    "precache-manifest.20e1eda24b105dbac96f26b44da1cdac.js": "/app-receitas/precache-manifest.20e1eda24b105dbac96f26b44da1cdac.js",
+    "precache-manifest.2eea07a6fbe87af9f9983fe3c3c110aa.js": "/app-receitas/precache-manifest.2eea07a6fbe87af9f9983fe3c3c110aa.js",
     "service-worker.js": "/app-receitas/service-worker.js",
     "static/css/main.89514515.chunk.css.map": "/app-receitas/static/css/main.89514515.chunk.css.map",
     "static/js/2.0032c7b0.chunk.js.LICENSE.txt": "/app-receitas/static/js/2.0032c7b0.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.0f6d492e.js",
     "static/js/2.0032c7b0.chunk.js",
     "static/css/main.89514515.chunk.css",
-    "static/js/main.f44a45c9.chunk.js"
+    "static/js/main.548f683c.chunk.js"
   ]
 }
